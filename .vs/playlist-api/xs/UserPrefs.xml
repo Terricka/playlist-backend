@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{6B042612-1D77-43AB-A457-82269CBFC4AD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="playlist-api/Playlist.cs">
+    <Files>
+      <File FileName="playlist-api/Startup.cs" Line="23" Column="1" IsPinned="True" />
+      <File FileName="playlist-api/appsettings.json" Line="33" Column="5" />
+      <File FileName="playlist-api/Program.cs" Line="42" Column="2" />
+      <File FileName="playlist-api/Properties/launchSettings.json" Line="25" Column="49" />
+      <File FileName="playlist-api/Playlist.cs" Line="6" Column="25" />
+      <File FileName="playlist-api/Controllers/PlaylistsController.cs" Line="34" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="playlist-api" expanded="True">
+            <Node name="playlist-api" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.playlist-api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
