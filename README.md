@@ -1,2 +1,2 @@
-# playlist-backend
+# playlist-core
 C# backend for playlist api
