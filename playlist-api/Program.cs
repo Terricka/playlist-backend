@@ -24,7 +24,7 @@ namespace playlist_api
 
                 builder.DataSource = "127.0.0.1";
                 builder.UserID = "SA";
-                builder.Password = "IllM@tic08";
+                builder.Password = "";
                 builder.InitialCatalog = "PlaylistApp";
 
                 using (SqlConnection connection = new SqlConnection(builder.ConnectionString))
